@@ -75,7 +75,7 @@ If you are interested in converting PlayerTokens to player icon URLs, see https:
 ### Badges
 |Link|Use|
 |---|---|
-|https://badges.roblox.com/v1/universes/{universeId}/badges?sortBy={Rank|DateCreated}&limit={limit}&sortOrder={Asc/Desc}&cursor={cursor} |Retrieves badges under given universe. Deactivated badges will not be returned by the API.|
+|https://badges.roblox.com/v1/universes/{universeId}/badges?sortBy={Rank/DateCreated}&limit={limit}&sortOrder={Asc/Desc}&cursor={cursor} |Retrieves badges under given universe. Deactivated badges will not be returned by the API.|
 |https://thumbnails.roblox.com/v1/badges/icons?badgeIds={listOfIds}&size={size}&format={format}&isCircular={bool}|Retrieves badge icon for given badge ID.
 
 ### Gamepasses & Dev Products
