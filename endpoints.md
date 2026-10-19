@@ -1,6 +1,6 @@
 This file contains a list of Roblox API endpoints used to make this tool possible. They require no cookies to work (though you should expect stricter ratelimits if you don't provide a cookie).
 
-# Table of Contents
+# Table of Content
 1. [Resources](#resources)
 2. [URI (Uniform Resource Identifier)](uri-uniform-resource-identifier)
     1. [roblox://](#roblox)
